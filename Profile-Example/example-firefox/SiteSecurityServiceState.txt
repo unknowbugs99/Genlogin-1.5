@@ -1,0 +1,4 @@
+aus5.mozilla.org:HSTS	0	19219	1692094939552,1,0,2
+contile.services.mozilla.com:HSTS	0	19219	1692094910169,1,0,2
+location.services.mozilla.com:HSTS	0	19219	1692091757365,1,1,2
+iphey.com^partitionKey=%28http%2Ciphey.com%29:HSTS	0	19219	1676108246407,1,1,2
