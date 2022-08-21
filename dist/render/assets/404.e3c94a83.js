@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{X as o,Y as t}from"./index.6e57c2f1.js";const n={name:"404Page"};function r(a,c,s,_,p,f){return o(),t("div",null,"404 - Not found")}const i=e(n,[["render",r]]);export{i as default};

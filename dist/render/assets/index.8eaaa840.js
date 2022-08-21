@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{X as t,Y as a}from"./index.6e57c2f1.js";const c={name:"CaptchaService"};function o(r,n,p,s,_,i){return t(),a("div",null,"Page In Development")}const l=e(c,[["render",o]]);export{l as default};

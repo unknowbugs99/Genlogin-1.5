@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{ak as n,X as a,_ as r,a3 as _,a4 as s}from"./index.6e57c2f1.js";import{_ as c}from"./Space.2af8f31d.js";const p={name:"Automation"};function m(i,u,f,l,d,v){const o=n("router-view"),t=c;return a(),r(t,{vertical:""},{default:_(()=>[s(o)]),_:1})}const w=e(p,[["render",m]]);export{w as default};

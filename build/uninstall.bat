@@ -1,0 +1,1 @@
+mini_installer.exe --uninstall --force-uninstall

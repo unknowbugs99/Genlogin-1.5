@@ -1,0 +1,1 @@
+import{d as t,ac as a,ad as s,o as n,X as u,Y as r}from"./index.6e57c2f1.js";const c={name:"BlankPage"},f=t({...c,setup(_){const e=a(),o=s();return n(()=>{setTimeout(()=>{e.query.goBack&&o.push({name:e.query.goBack})},100)}),(m,p)=>(u(),r("div"))}});export{f as default};
